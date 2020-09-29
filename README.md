@@ -1,2 +1,3 @@
 # pothole_identification
-Identifying potholes on roads
+
+Delveopling a deep learning model to identify potholes on roads.
